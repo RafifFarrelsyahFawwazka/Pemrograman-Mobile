@@ -18,9 +18,11 @@ Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut
 
 Jawaban:
 Kode Program :
+
 ![Hasil Modifikasi Kode](Nomor1Kode.png)
 
 Hasil Run :
+
 ![Hasil Modifikasi Run](Nomor1Run.png)
 
 ## Soal 2
@@ -58,16 +60,22 @@ Jawaban:
 Null Safety adalah fitur Dart yang mencegah variabel memiliki nilai null kecuali diizinkan secara eksplisit. Tujuannya untuk menghindari error null reference saat program berjalan.
 
 ## Contoh Tanpa Null Safety
+
 ![Screenshoot](NullSafety/TanpaNullAman.png)
+
 Variable nama tidak boleh kosong (null)
 
 ## Contoh Error Null Safety
+
 ![Screenshoot](NullSafety/ErrorNullSafety.png)
+
 Error karena variable wajib memiliki nilai awal
 
 ## Mengizinkan Null
 Gunakan tanda ?
+
 ![Screenshoot](NullSafety/MengizinkanNull.png)
+
 Artinya variable boleh bernilai null
 
 
@@ -77,11 +85,15 @@ Late variable digunakan ketika variabel akan diinisialisasi nanti, tetapi dijami
 Keyword: late
 
 ## Contoh Late Variable
+
 ![Screenshoot](LateVariable/LateVariable.png)
+
 Variable dideklarasikan dulu, nilainya diberikan nantinya
 
 ## Jika Late Tidak Diisi
+
 ![Screenshoot](LateVariable/LateTidakDiisi.png)
+
 Error karena variabel belum diberi nilai
 
 
