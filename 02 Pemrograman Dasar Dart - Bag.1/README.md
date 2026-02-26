@@ -55,23 +55,23 @@ Buatlah penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan La
 
 Jawaban:
 
-### NULL SAFETY
+## NULL SAFETY
 
 Null Safety adalah fitur Dart yang mencegah variabel memiliki nilai null kecuali diizinkan secara eksplisit. Tujuannya untuk menghindari error null reference saat program berjalan.
 
-## Contoh Tanpa Null Safety
+### Contoh Tanpa Null Safety
 
 ![Screenshoot](NullSafety/TanpaNullAman.png)
 
 Variable nama tidak boleh kosong (null)
 
-## Contoh Error Null Safety
+### Contoh Error Null Safety
 
 ![Screenshoot](NullSafety/ErrorNullSafety.png)
 
 Error karena variable wajib memiliki nilai awal
 
-## Mengizinkan Null
+### Mengizinkan Null
 Gunakan tanda ?
 
 ![Screenshoot](NullSafety/MengizinkanNull.png)
@@ -79,24 +79,24 @@ Gunakan tanda ?
 Artinya variable boleh bernilai null
 
 
-### LATE VARIABLE
+## LATE VARIABLE
 
 Late variable digunakan ketika variabel akan diinisialisasi nanti, tetapi dijamin memiliki nilai sebelum digunakan.
 Keyword: late
 
-## Contoh Late Variable
+### Contoh Late Variable
 
 ![Screenshoot](LateVariable/LateVariable.png)
 
 Variable dideklarasikan dulu, nilainya diberikan nantinya
 
-## Jika Late Tidak Diisi
+### Jika Late Tidak Diisi
 
 ![Screenshoot](LateVariable/LateTidakDiisi.png)
 
 Error karena variabel belum diberi nilai
 
 
-### KESIMPULAN
+## KESIMPULAN
 
 Null Safety digunakan untuk mengontrol kemungkinan nilai null, sedangkan late variable digunakan ketika variabel belum diisi saat deklarasi tetapi akan diberikan nilai sebelum digunakan dalam program Dart.
