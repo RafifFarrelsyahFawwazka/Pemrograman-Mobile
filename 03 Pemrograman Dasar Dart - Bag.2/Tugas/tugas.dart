@@ -18,7 +18,7 @@ void main() {
 
     // Jika prima, langsung print nama dan NIM
     if (isPrima) {
-      print("$i - Nama: Rafif, NIM: 21434132");
+      print("$i - Nama: Rafif Farrelsyah Fawwazka, NIM: 244107060054");
     }
   }
 }
