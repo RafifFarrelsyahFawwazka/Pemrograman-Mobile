@@ -104,5 +104,55 @@ Tambah Nama dan NIM:
 
 ## Praktikum 4
 
+Langkah 1&2:
+
+![Screenshoot](Praktikum4/langkah1.png)
+
+![Screenshoot](Praktikum4/langkah1run.png)
+
+Program Erorr
+- Tertulis: print(list1);
+- Sedangkan variabel yang didefinisikan sebelumnya adalah list
+
+Perbaikan:
+
+![Screenshoot](Praktikum4/langkah1perbaikan.png)
+
+![Screenshoot](Praktikum4/langkah1perbaikanrun.png)
+
+Langkah 3:
+
+![Screenshoot](Praktikum4/langkah3.png)
+
+Program Erorr
+Variabel list1 tidak dideklarasikan: perlu menambahkan kata kunci var, final, atau tipe data List sebelum nama variabel.
+
+Perbaikan:
+
+![Screenshoot](Praktikum4/langkah3perbaikan.png)
+
+Menambah NIM menggunakan Spread Operators:
+
+![Screenshoot](Praktikum4/langkah3soal.png)
+
+Langkah 4:
+
+![Screenshoot](Praktikum4/langkah4.png)
+
+Program Erorr
+Masalah utamanya adalah variabel promoActive belum didefinisikan
+
+Perbaikan:
+
+![Screenshoot](Praktikum4/langkah4perbaikan.png)
+
+Jika variabel promoActive false:
+
+![Screenshoot](Praktikum4/langkah4soal.png)
+
+
+
+
+
 
 
