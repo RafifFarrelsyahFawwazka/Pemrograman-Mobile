@@ -98,5 +98,11 @@ Perbaikan:
 
 Tambah Nama dan NIM:
 
+![Screenshoot](Praktikum3/langkah3soal.png)
+
+![Screenshoot](Praktikum3/langkah3soalrun.png)
+
+## Praktikum 4
+
 
 
