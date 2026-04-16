@@ -60,8 +60,43 @@ tidak erorr, namun pada names 3 meskipun menggunakan kurung kurawal {}, Dart sec
 - {} tanpa keterangan = Map (Kumpulan pasangan key:value).
 - <String>{} atau Set{} = Set (Kumpulan nilai unik).
 
+Nama dan NIM menggunakan add dan addall
 
+![Screenshoot](Praktikum2/langkah3soal.png)
 
+![Screenshoot](Praktikum2/langkah3soalrun.png)
+
+## Praktikum 3
+
+Langkah 1&2:
+
+![Screenshoot](Praktikum3/langkah1.png)
+
+![Screenshoot](Praktikum3/langkah1run.png)
+
+Program tidak erorr
+- Kode ini menggunakan tipe data Map.
+- Map adalah koleksi objek yang menyimpan data dalam pasangan Key (kunci) dan Value (nilai).
+- Pada variabel gifts, kuncinya adalah String (seperti 'first') dan nilainya bisa berupa String maupun Int.
+- Pada variabel nobleGases, kuncinya adalah Int (nomor atom) dan nilainya adalah nama gas tersebut atau angka.
+
+Langkah 3:
+
+![Screenshoot](Praktikum3/langkah3.png)
+
+![Screenshoot](Praktikum3/langkah3run.png)
+
+Program Erorr
+- Masalah 1: Ada variabel baru bernama mhs1 dan mhs2, tetapi baris di bawahnya mencoba mengisi data ke variabel gifts dan nobleGases. Jika variabel gifts dan nobleGases belum dideklarasikan sebelumnya maka akan erorr
+- Masalah 2: Jika ingin mengisi mhs1 dan mhs2 maka variabel yang digunakan untuk mengisi data haruslah mhs1[...] dan mhs2[...].
+
+Perbaikan:
+
+![Screenshoot](Praktikum3/langkah3perbaikan.png)
+
+![Screenshoot](Praktikum3/langkah3perbaikanrun.png)
+
+Tambah Nama dan NIM:
 
 
 
