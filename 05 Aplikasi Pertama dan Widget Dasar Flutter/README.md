@@ -17,18 +17,22 @@
 ## Praktikum 1
 
 ### Langkah 1:
+New Application Project
 
 ![Screenshoot](Praktikum1/langkah1.png)
 
 ### Langkah 2:
+Pilih folder untuk project
 
 ![Screenshoot](Praktikum1/langkah2.png)
 
 ### Langkah 3:
+Beri nama hello_world
 
 ![Screenshoot](Praktikum1/langkah3.png)
 
 ### Langkah 4:
+Berhasil membuat project flutter baru
 
 ![Screenshoot](Praktikum1/langkah4.png)
 
