@@ -100,7 +100,7 @@ hasil run:
 
 ### langkah 1: loading_cupertino.dart:
 
-![Screenshoot](Praktikum5/anu.jpg)
+![Screenshoot](Praktikum5/anu.png)
 
 edit main:
 
@@ -110,11 +110,11 @@ edit main:
 
 hasil:
 
-![Screenshoot](Praktikum5/hasil.jpg)
+![Screenshoot](Praktikum5/hasil.jpeg)
 
 ### langkah 2: fab_widget.dart:
 
-![Screenshoot](Praktikum5/anu2.ppg)
+![Screenshoot](Praktikum5/anu2.png)
 
 edit main:
 
@@ -124,7 +124,7 @@ edit main:
 
 hasil:
 
-![Screenshoot](Praktikum5/hasil2.jpg)
+![Screenshoot](Praktikum5/hasil2.jpeg)
 
 
 ### langkah 3: scaffold widget
@@ -133,7 +133,7 @@ hasil:
 
 hasil:
 
-![Screenshoot](Praktikum5/hasil3.jpg)
+![Screenshoot](Praktikum5/hasil3.jpeg)
 
 ### langkah 4: Dialog Widget
 
@@ -141,9 +141,9 @@ hasil:
 
 hasil:
 
-![Screenshoot](Praktikum5/hasil4.jpg)
+![Screenshoot](Praktikum5/hasil4.jpeg)
 
-![Screenshoot](Praktikum5/hasil4_1.jpg)
+![Screenshoot](Praktikum5/hasil4_1.jpeg)
 
 ### Langkah 5: Input dan Selection Widget
 
@@ -151,9 +151,9 @@ hasil:
 
 hasil:
 
-![Screenshoot](Praktikum5/hasil5.jpg)
+![Screenshoot](Praktikum5/hasil5.jpeg)
 
-![Screenshoot](Praktikum5/hasil5_1.jpg)
+![Screenshoot](Praktikum5/hasil5_1.jpeg)
 
 ### Langkah 6: Date and Time Pickers
 
@@ -161,7 +161,7 @@ hasil:
 
 hasil:
 
-![Screenshoot](Praktikum5/hasil6.jpg)
+![Screenshoot](Praktikum5/hasil6.jpeg)
 
-![Screenshoot](Praktikum5/hasil7_1.jpg)
+![Screenshoot](Praktikum5/hasil6_1.jpeg)
 
