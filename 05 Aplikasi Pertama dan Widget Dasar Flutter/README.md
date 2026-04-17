@@ -39,15 +39,19 @@ Berhasil membuat project flutter baru
 ## Praktikum 2
 
 Aktifkan Opsi Developer di HP:
-![Screenshoot](Praktikum2/opsideveloper.jpg)
+
+![Screenshoot](Praktikum2/opsi_developer.jpg)
 
 izinkan debug:
+
 ![Screenshoot](Praktikum2/allowdebug.jpg)
 
 flutter run:
+
 ![Screenshoot](Praktikum2/kodepraktikum2.png)
 
 Hasil:
+
 ![Screenshoot](Praktikum2/praktikum2.jpg)
 
 ## Praktikum 3
@@ -60,7 +64,7 @@ hasil:
 
 ## Praktikum 4
 
-### langkah 1
+### langkah 1:
 text_widget:
 ![Screenshoot](Praktikum4/text_widget.png)
 
@@ -72,7 +76,7 @@ edit main.dart:
 hasil run:
 ![Screenshoot](Praktikum4/hasil.jpg)
 
-### langkah 2
+### langkah 2:
 image_widget:
 ![Screenshoot](Praktikum4/image_widget.png)
 
