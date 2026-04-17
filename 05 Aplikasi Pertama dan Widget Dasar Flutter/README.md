@@ -12,7 +12,7 @@
 
 # Tugas Praktikum
 
-# Nomor 1
+![Screenshoot](Praktikum1/tugaspraktikum.png)
 
 ## Praktikum 1
 
@@ -35,10 +35,10 @@
 ## Praktikum 2
 
 Aktifkan Opsi Developer di HP:
-![Screenshoot](Praktikum2/opsideveloper.png)
+![Screenshoot](Praktikum2/opsideveloper.jpg)
 
 izinkan debug:
-![Screenshoot](Praktikum2/allowdebug.png)
+![Screenshoot](Praktikum2/allowdebug.jpg)
 
 flutter run:
 ![Screenshoot](Praktikum2/kodepraktikum2.png)
@@ -52,11 +52,12 @@ run main.dart:
 ![Screenshoot](Praktikum3/ke1.png)
 
 hasil:
-![Screenshoot](Praktikum3/ke4.png)
+![Screenshoot](Praktikum3/ke4.jpg)
 
 ## Praktikum 4
 
-### langkah 1 text_widget:
+### langkah 1
+text_widget:
 ![Screenshoot](Praktikum4/text_widget.png)
 
 edit main.dart:
@@ -67,11 +68,11 @@ edit main.dart:
 hasil run:
 ![Screenshoot](Praktikum4/hasil.jpg)
 
-### langkah 2 image_widget:
+### langkah 2
+image_widget:
 ![Screenshoot](Praktikum4/image_widget.png)
 
 edit main.dart:
-
 ![Screenshoot](Praktikum4/editmain2.png)
 
 ![Screenshoot](Praktikum4/editmain.png)
@@ -135,6 +136,4 @@ hasil:
 ![Screenshoot](Praktikum5/hasil6.jpg)
 
 ![Screenshoot](Praktikum5/hasil7_1.jpg)
-
-# Nomor 2
 
