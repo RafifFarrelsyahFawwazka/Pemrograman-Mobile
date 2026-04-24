@@ -140,15 +140,38 @@ Langkah 4:
 ![Screenshoot](Praktikum4/langkah4.png)
 
 Program Erorr
-Masalah utamanya adalah variabel promoActive belum didefinisikan
+Masalahnya adalah variabel promoActive belum didefinisikan
 
 Perbaikan:
 
 ![Screenshoot](Praktikum4/langkah4perbaikan.png)
 
 Jika variabel promoActive false:
+Outlet tidak diprint
 
 ![Screenshoot](Praktikum4/langkah4soal.png)
+
+
+Langkah 5:
+
+![Screenshoot](Praktikum4/langkah5eror.png)
+
+Program Erorr
+Masalahnya adalah variabel login belum didefinisikan
+
+Perbaikan:
+
+![Screenshoot](Praktikum4/langkah5perbaikan.png)
+
+Jika variabel promoActive false:
+Inventory tidak di print
+
+![Screenshoot](Praktikum4/langkah5soal.png)
+
+
+Langkah 6:
+
+
 
 
 
