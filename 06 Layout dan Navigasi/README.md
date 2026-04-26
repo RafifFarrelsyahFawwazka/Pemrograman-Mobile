@@ -84,4 +84,4 @@ Langkah 3: Terakhir, ubah menjadi ListView
 
 Hasil Run:
 
-![Screenshoot](Praktikum3/prak4run.jpg)
+![Screenshoot](Praktikum4/prak4run.jpg)
