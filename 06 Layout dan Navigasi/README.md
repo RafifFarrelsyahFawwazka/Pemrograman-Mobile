@@ -12,7 +12,7 @@
 
 # Nomor 1
 
-## Praktikum 1
+## Praktikum 1 : Membangun Layout di Flutter
 
 Langkah 1 Buat Project Baru:
 
@@ -34,7 +34,7 @@ Langkah 4: Implementasi title row
 
 ![Screenshoot](Praktikum1/langkah4run.jpg)
 
-## Praktikum 2
+## Praktikum 2 : Implementasi button row
 
 Langkah 1: Buat method Column _buildButtonColumn
 
@@ -52,9 +52,36 @@ Hasil Run:
 
 ![Screenshoot](Praktikum2/prak2run.jpg)
 
-## Praktikum 3
+## Praktikum 3 : Implementasi text section
 
+Langkah 1: Buat widget textSection
 
+![Screenshoot](Praktikum3/langkah1.png)
 
+Langkah 2: Tambahkan variabel text section ke body
 
+![Screenshoot](Praktikum3/langkah2.png)
 
+Hasil Run:
+
+![Screenshoot](Praktikum3/prak3run.jpg)
+
+## Praktikum 4: Implementasi image section
+
+Langkah 1: Siapkan aset gambar
+
+![Screenshoot](Praktikum4/langkah11.png)
+
+![Screenshoot](Praktikum4/langkah12.png)
+
+Langkah 2: Tambahkan gambar ke body
+
+![Screenshoot](Praktikum4/langkah2.png)
+
+Langkah 3: Terakhir, ubah menjadi ListView
+
+![Screenshoot](Praktikum4/langkah3.png)
+
+Hasil Run:
+
+![Screenshoot](Praktikum3/prak4run.jpg)
