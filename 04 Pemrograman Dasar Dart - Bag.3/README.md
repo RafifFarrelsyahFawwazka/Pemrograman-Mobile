@@ -290,6 +290,8 @@ Closure adalah function yang masih dapat mengakses variabel dari scope luar mesk
 
 ![Screenshoot](Tugas/nomor6_2.png)
 
+# Nomor 7
+
 Dart tidak bisa langsung mengembalikan banyak nilai sekaligus, tetapi bisa menggunakan List, Map, atau Record.
 
 a. Menggunakan List
